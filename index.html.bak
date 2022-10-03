@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    <title></title>
+	   <link rel="stylesheet" href="css/style.css">
+	   <style>
+           @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+	       @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Work+Sans:wght@100;400&display=swap');
+         </style>
+	   </head>
+	        <body>
+		      <section class="container">
+			     <div class="team">
+				    <div class="text">
+			           <h2>Why Choose <br>Medilab?</h2>
+				         <p>Lorem ipsum dolor sit amet,consectetur <br>apdipiscing elit,sed do eiusmod tempor<br> incididunt ut labore et dolore mangna aliqua.<br>
+					     Duis aute irure dolor in reprehenderit<br> Asperiores dolores sed et.Tenetur quia eos.<br>Autem tempore quibusdam vel necessitatibus<br>
+						 optio ad corporis.</p>
+					</div>
+					<div class="button">
+					   <a href="#">Learn More</a>
+					</div>
+			
+		            </div>
+			  </section>
+		   </body>
+</html>

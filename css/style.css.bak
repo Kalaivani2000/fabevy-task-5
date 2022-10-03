@@ -1,0 +1,42 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container{
+	    margin:148px 480px;
+}
+.team{
+	  background-color:#1111d9cc;
+	  width:420px;
+	  height:407px;
+}
+.text h2,p{
+	    font-size:20px;
+		color:white;
+		padding-bottom:40px;
+		text-align:left;
+		text-align:left;
+	    padding-left:34px;
+		font-family:Raleway, sans-serif;
+}
+.text h2{
+	   font-size:30px;
+	   padding-top:20px;
+	   font-family:Raleway, sans-serif;
+
+}
+
+.button a{
+	  text-decoration:none;
+	  border:2px ;
+	  border-radius:50px 50px;
+	  display:inline-block;
+	  opacity: 1.0;
+	  text-align:center;
+	  font-size:20px;
+	  margin-left:108px;
+	  padding:7px 29px;
+	  color:white;
+	  background-color:#6767e26e;
+}
